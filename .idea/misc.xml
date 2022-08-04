@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout-land/activity_sauvegarde.xml" value="0.3881578947368421" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_coroutine.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_cycle_vie.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_detail.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_evenement.xml" value="0.2868421052631579" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_exemple.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_fichier.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_lancement.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_liste.xml" value="0.2868421052631579" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_preferences.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_retrofit.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/activity_sauvegarde.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/include_saisies.xml" value="0.2986842105263158" />
+        <entry key="..\:/DevsFreelance/DemoAppKotlin5/app/src/main/res/layout/item_course.xml" value="0.2986842105263158" />
+        <entry key="..\:/Users/rocka/OneDrive/Documents/AJC Front end/15- Android/TP/DemoAppKotlin5_1__181__0/TPs/app/src/main/res/layout/activity_liste.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/rocka/OneDrive/Documents/AJC Front end/15- Android/TP/DemoAppKotlin5_1__181__0/TPs/app/src/main/res/layout/activity_permission.xml" value="0.10582690659811482" />
+        <entry key="..\:/Users/rocka/OneDrive/Documents/AJC Front end/15- Android/TP/DemoAppKotlin5_1__181__0/TPs/app/src/main/res/layout/item_course.xml" value="0.12771739130434784" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
